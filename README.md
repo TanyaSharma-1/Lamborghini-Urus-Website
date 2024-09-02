@@ -1,1 +1,1 @@
-This is a website made up on lamborghini urus using HTML and basic CSS.
+This is a website about Lamborghini urus using HTML and basic CSS.
